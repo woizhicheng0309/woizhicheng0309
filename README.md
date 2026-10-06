@@ -2,9 +2,8 @@
 
 # Woi Zhi Cheng 👋
 
-### 🇲🇾 Bachelor Degree in Psychology @ Tunku Abdul Rahman University 
-### 🇹🇼 Computer Science & Information Engineering @ Feng Chia University  
-### ☁️ Preparing for DevOps & Cloud Internships
+Computer Science & Information Engineering @ Feng Chia University 🇹🇼
+Bachelor's Degree in Psychology @ Tunku Abdul Rahman University 🇲🇾
 
 [GitHub](https://github.com/woizhicheng0309) · [PulseOps](https://github.com/woizhicheng0309/PulseOps)
 
@@ -38,14 +37,17 @@ Kubernetes deployment practice covering multiple services, configuration, persis
 
 ### Competitions & Academic Projects
 
-- **CCTV Safety Project** — Workplace safety risk analysis using long-term footage
-- **InnoServe** — Preparing with the project team
+- **2025 AI CUP Award : First Place** — Computed Tomography Myocardium Image Segmentation II Aortic Valve Object Detection
+- **115國科會大專生計劃 : Research on an AI and MR Based Intervention System for Internet Addiction Among University Students 115-2813-C-035-129**  — MR Unity project for reducing Internet Addiction, combining Meta Quest3, Emotiv Insight for brain wave detection, Polar Verity Sense for HRV  
 
 ## 🛠 Tech
 
-**Backend:** Go · PostgreSQL · REST APIs · JWT · sqlc  
-**Frontend:** React · TypeScript · Vite · Vitest  
-**Cloud & DevOps Learning:** AWS · Google Cloud · Docker · Kubernetes · GitHub Actions
+**Languages:** C · Python · Go · SQL  
+**Systems & Tools:** Linux · Git  
+**Networking:** HTTP Clients & Servers  
+**Cloud:** AWS · Google Cloud (GCP)  
+**Containers & Orchestration:** Docker · Kubernetes  
+**CI/CD:** GitHub Actions
 
 ## 💻 Other Projects & Practice
 
