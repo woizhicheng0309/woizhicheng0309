@@ -2,9 +2,9 @@
 
 # Woi Zhi Cheng 👋
 
-Bachelor Degree in Psychology @ Tunku Abdul Rahman University
-Computer Science & Information Engineering @ Feng Chia University  
-Preparing for DevOps & Cloud Internships
+### Bachelor Degree in Psychology @ Tunku Abdul Rahman University 
+### Computer Science & Information Engineering @ Feng Chia University  
+### Preparing for DevOps & Cloud Internships
 
 [GitHub](https://github.com/woizhicheng0309) · [PulseOps](https://github.com/woizhicheng0309/PulseOps)
 
