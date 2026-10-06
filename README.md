@@ -2,8 +2,8 @@
 
 # Woi Zhi Cheng 👋
 
-Computer Science & Information Engineering @ Feng Chia University 🇹🇼
-Bachelor's Degree in Psychology @ Tunku Abdul Rahman University 🇲🇾
+Computer Science & Information Engineering @ Feng Chia University<br>
+Bachelor's Degree in Psychology @ Tunku Abdul Rahman University
 
 [GitHub](https://github.com/woizhicheng0309) · [PulseOps](https://github.com/woizhicheng0309/PulseOps)
 
