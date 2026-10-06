@@ -38,7 +38,7 @@ Kubernetes deployment practice covering multiple services, configuration, persis
 ### Competitions & Academic Projects
 
 - **2025 AI CUP Award : First Place** — Computed Tomography Myocardium Image Segmentation II Aortic Valve Object Detection
-- **115國科會大專生計劃 : Research on an AI and MR Based Intervention System for Internet Addiction Among University Students 115-2813-C-035-129**  — MR Unity project for reducing Internet Addiction, combining Meta Quest3, Emotiv Insight for brain wave detection, Polar Verity Sense for HRV  
+- **2026 NSTC Undergraduate Research Project : 115-2813-C-035-129**  —  Research on an AI and MR Based Intervention System for Internet Addiction Among University Students. Aiming for reducing Internet Addiction, combining Meta Quest3, Emotiv Insight for brain wave detection, Polar Verity Sense for HRV  
 
 ## 🛠 Tech
 
