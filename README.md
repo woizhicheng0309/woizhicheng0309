@@ -13,7 +13,7 @@ Bachelor's Degree in Psychology @ Tunku Abdul Rahman University 🇲🇾
 
 ### [MediCare](https://github.com/woizhicheng0309/MediCare-Health-Group) · 🚧
 
-A Laravel framework project build for TPA healthcare service provider, managing healthcare benefits of companies.
+A Laravel framework project built for a TPA healthcare service provider managing healthcare benefits for companies. Inspired by my working experience @ ASP Medical Group 🇲🇾 to solve real challenges I experienced as Assistance Manager of Helpdesk department. 
 
 ### [Notely](https://github.com/woizhicheng0309/learn-cicd-starter)
 
