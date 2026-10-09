@@ -23,7 +23,7 @@ CI/CD practice with a Go application, Docker, and GitHub Actions.
 
 Kubernetes deployment practice covering multiple services, configuration, persistent storage, and autoscaling.
 
-## 🎓 Campus Experience
+## 🎓 Campus and Career Experience
 
 ### Clubs
 
