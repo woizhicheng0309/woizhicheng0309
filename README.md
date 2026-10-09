@@ -23,6 +23,10 @@ CI/CD practice with a Go application, Docker, and GitHub Actions.
 
 Kubernetes deployment practice covering multiple services, configuration, persistent storage, and autoscaling.
 
+### [DuckSinging](https://github.com/woizhicheng0309/DuckSinging)
+
+An ideal to keep your users entertained when your web services is under maintenance.
+
 ## 🎓 Campus and Career Experience
 
 ### Clubs
