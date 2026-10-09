@@ -11,7 +11,7 @@ Bachelor's Degree in Psychology @ Tunku Abdul Rahman University 🇲🇾
 
 ## 🚀 Featured Projects
 
-### [MediCare](https://github.com/woizhicheng0309/MediCare-Health-Group) · In Development
+### [MediCare](https://github.com/woizhicheng0309/MediCare-Health-Group) · 🚧
 
 A Laravel framework project build for TPA healthcare service provider, managing healthcare benefits of companies.
 
@@ -37,8 +37,8 @@ Kubernetes deployment practice covering multiple services, configuration, persis
 
 ### Competitions & Academic Projects
 
-- **2025 AI CUP Award : First Place** — Computed Tomography Myocardium Image Segmentation II Aortic Valve Object Detection
-- **2026 NSTC Undergraduate Research Project : 115-2813-C-035-129**  —  Research on an AI and MR Based Intervention System for Internet Addiction Among University Students. Aiming for reducing Internet Addiction, combining Meta Quest3, Emotiv Insight for brain wave detection, Polar Verity Sense for HRV  
+- **2025 AI CUP Award : First Place 🏆** — Computed Tomography Myocardium Image Segmentation II Aortic Valve Object Detection
+- **2026 NSTC Undergraduate Research Project🇹🇼 : 115-2813-C-035-129**  —  Research on an AI and MR Based Intervention System for Internet Addiction Among University Students. Aiming for reducing Internet Addiction, combining Meta Quest3, Emotiv Insight for brain wave detection, Polar Verity Sense for HRV  
 
 ## 🛠 Tech
 
