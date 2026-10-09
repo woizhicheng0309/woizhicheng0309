@@ -31,9 +31,11 @@ Kubernetes deployment practice covering multiple services, configuration, persis
 
 ### Work & Teaching
 
-- **2025** — Teaching Assistant, Programming I & II
-- **2026** — Teaching Assistant, Programming I & II; Programming and Problem Solving
-- **2024–2026** — Graduate Students Data Analysis: Managing survey team and prepared annual reports submitting to Ministry of Education
+- **2020** — Student counsellor @ Chung Ling High School 🇲🇾 
+- **2021** — Helpdesk Assistant Manager @ ASP Medical Group 🇲🇾 
+- **2025** — Teaching Assistant, Programming I & II @ Feng Chia University 🇹🇼
+- **2026** — Teaching Assistant, Programming I & II; Programming and Problem Solving @ Feng Chia University 🇹🇼
+- **2024–2026** — Graduate Students Data Analysis: Managing survey team and prepared annual reports submitting to Ministry of Education @ Feng Chia University 🇹🇼
 
 ### Competitions & Academic Projects
 
