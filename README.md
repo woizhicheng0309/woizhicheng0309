@@ -11,7 +11,7 @@ Bachelor's Degree in Psychology @ Tunku Abdul Rahman University 🇲🇾
 
 ## 🚀 Featured Projects
 
-### [MediCare](https://github.com/woizhicheng0309/MediCare) · 🚧
+### [MediCare](https://github.com/woizhicheng0309/MediCare) 🚧
 
 A TPA service managing healthcare benefits for companies. Inspired by my working experience @ ASP Medical Group 🇲🇾 to solve real challenges I experienced as Assistance Manager of Helpdesk department. 
 
