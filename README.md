@@ -5,15 +5,15 @@
 Computer Science & Information Engineering @ Feng Chia University 🇹🇼<br>
 Bachelor's Degree in Psychology @ Tunku Abdul Rahman University 🇲🇾
 
-[GitHub](https://github.com/woizhicheng0309) · [PulseOps](https://github.com/woizhicheng0309/PulseOps)
+[GitHub](https://github.com/woizhicheng0309) · [PulseOps](https://github.com/woizhicheng0309/MediCare-Health-Group)
 
 </div>
 
 ## 🚀 Featured Projects
 
-### [PulseOps](https://github.com/woizhicheng0309/PulseOps) · In Development
+### [MediCare](https://github.com/woizhicheng0309/MediCare-Health-Group) · In Development
 
-A DevOps project targeting uptime and incident monitoring, built incrementally from a Go API.
+A Laravel framework project build for TPA healthcare service provider, managing healthcare benefits of companies.
 
 ### [Notely](https://github.com/woizhicheng0309/learn-cicd-starter)
 
