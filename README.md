@@ -5,13 +5,13 @@
 Computer Science & Information Engineering @ Feng Chia University 🇹🇼<br>
 Bachelor's Degree in Psychology @ Tunku Abdul Rahman University 🇲🇾
 
-[GitHub](https://github.com/woizhicheng0309) · [MediCare](https://github.com/woizhicheng0309/MediCare-Health-Group)
+[GitHub](https://github.com/woizhicheng0309) · [MediCare](https://github.com/woizhicheng0309/MediCare)
 
 </div>
 
 ## 🚀 Featured Projects
 
-### [MediCare](https://github.com/woizhicheng0309/MediCare-Health-Group) · 🚧
+### [MediCare](https://github.com/woizhicheng0309/MediCare) · 🚧
 
 A Laravel framework project built for a TPA healthcare service provider managing healthcare benefits for companies. Inspired by my working experience @ ASP Medical Group 🇲🇾 to solve real challenges I experienced as Assistance Manager of Helpdesk department. 
 
