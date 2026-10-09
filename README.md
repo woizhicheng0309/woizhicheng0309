@@ -46,7 +46,7 @@ Kubernetes deployment practice covering multiple services, configuration, persis
 
 **Languages:** C · Python · Go · SQL · PHP   
 **Systems & Tools:** Linux · Git  
-**Networking:** HTTP Clients & Servers  
+**Networking:** HTTP Clients & Servers using Golang 
 **Cloud:** AWS · Google Cloud (GCP)  
 **Containers & Orchestration:** Docker · Kubernetes · GKE · ECS
 **CI/CD:** GitHub Actions
